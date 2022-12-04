@@ -2,17 +2,17 @@
 <html>
 <body>
 
-<h2> Hai!, Saya Hildan Agussandi </h2>
+<h2 style="color :blue;"> Hai!, Saya Hildan Agussandi </h2>
 <img src="myimage.jpg" width="300px"></br>
 
-<h2> Tentang Saya </h2>
+<h2 style="color: blue;"> Tentang Saya </h2>
 
 <table border="2">
 <tr><th><p> Hi! saya adalah Mahasiswa semester 5 dari Sekolah Tinggi Teknologi Bandung, Prodi Teknik Informatika. 
 Saya aktif di Organisasi dan menjadi Ketua Umum UKM Music Society STT Bandung Periode 2021-2022. </p></tr></th>
 </table>
 
-<h2> Keahilan Saya yaitu </h2>
+<h2 style="color: blue;"> Keahilan Saya yaitu </h2>
 
 <table border="1">
 <tr>
@@ -22,7 +22,7 @@ Saya aktif di Organisasi dan menjadi Ketua Umum UKM Music Society STT Bandung Pe
 </tr>
 </table>
 
-<h2> Saya memiliki Pengalaman Organisasi, diantaranya : </h2>
+<h2 style="color: blue;"> Saya memiliki Pengalaman Organisasi, diantaranya : </h2>
 
 <table border="2">
 <tr>
@@ -34,7 +34,7 @@ Saya aktif di Organisasi dan menjadi Ketua Umum UKM Music Society STT Bandung Pe
 </tr>
 </table>
 
-<h2> Yuk berteman dengan saya! </h2>
+<h2 style="color: blue;"> Yuk berteman dengan saya! </h2>
 
 <table border="2">
 <th><a href="https://www.linkedin.com/in/hildan-agussandi-4026b420a/"> My LinkedIn</a></th>
